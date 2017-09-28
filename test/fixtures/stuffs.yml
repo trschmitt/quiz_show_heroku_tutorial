@@ -1,9 +1,9 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  body: MyText
+stuff:
+  title: Best stuff in the world yo
+  body: Its all true dude
 
-two:
-  title: MyString
-  body: MyText
+thangs:
+  title: What you think I am lying
+  body: NOPE
